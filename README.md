@@ -33,3 +33,27 @@ playlist_track: Tracks included in each playlist.
 
 track: Details about individual music tracks.
 
+Installation :
+
+To run the SQL queries in this project, you need to have a database management system (DBMS) installed. 
+This project is compatible with any SQL-based DBMS like MySQL, PostgreSQL, or SQLite.
+
+Database:
+
+Create a new database in your DBMS.
+Import the dataset into the database.
+
+Usage:
+
+Open your DBMS and connect to the database.
+Run the SQL queries provided in the queries.sql file.
+Analyze the results generated from the queries.
+
+Contact
+If you have any questions or feedback, feel free to contact me:
+
+Name: Snehalata Pattanakude
+
+Email: snehalatapattankude@gmail.com
+
+GitHub: https://github.com/snehalatasp/pizza_hut_sales_Analysis_Using_SQL
